@@ -1,0 +1,16 @@
+#####   EXEMPLO DE UPDATE COM WHERE ####
+
+
+*Realizar consulta da tabela para analise e confirmação para o update.
+
+SELECT * FROM NOME_TABELA
+WHERE MASCARACC = '####' AND NOME_COLUNA = 5
+
+//////
+
+*Realizar o update.
+
+UPDATE
+NOME_TABELA
+SET MASCARACC = '####'
+WHERE MASCARACC = '#####' AND NOME_COLUNA = 5
