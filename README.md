@@ -1,3 +1,3 @@
 # Querys SQL
 
-## Repositorio responsavel por armazenar Querys para utilização no banco SQL Server
+## Repositorio responsável por armazenar Querys para utilização no banco SQL Server
